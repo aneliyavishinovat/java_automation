@@ -11,7 +11,7 @@ public class College {
 		
 		StudentGroup sg1 = new StudentGroup("Math");
 		
-		Silvi.receiveScholarship(4, 200);
+		Silvi.receiveScholarship(4, 1000);
 		Vanq.upYear();
 		Slavena.grade = 6;
 		
